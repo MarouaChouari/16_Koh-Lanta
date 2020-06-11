@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-milka daim
-=======
-Milka daim
->>>>>>> ffa2e00b37d956fa20e58f1312daaba4b6a21b13
+cette fois-ci Lindt
